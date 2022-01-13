@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "python3-priism"
 version = "0.1.0"
-description = "Python 3 environment for tnakazato/priism"
+description = "Python 3 environment for tnakazato/priism (on ADC/MDAS)"
 authors = ["Akio Taniguchi <taniguchi@a.phys.nagoya-u.ac.jp>"]
 license = "MIT"
 
