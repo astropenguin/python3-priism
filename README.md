@@ -3,7 +3,7 @@ Python 3 environment for tnakazato/priism (on ADC/MDAS)
 
 # Installation
 
-Make sure that [Poetry]() is installed and available.
+Make sure that [Poetry](https://python-poetry.org/) is installed and available.
 
 ```shell
 git clone https://github.com/astropenguin/python3-priism.git
