@@ -1,0 +1,3 @@
+[submodule "priism"]
+	path = priism
+	url = https://github.com/tnakazato/priism.git
