@@ -8,6 +8,7 @@ Make sure that [Poetry](https://python-poetry.org/) is installed and available.
 ```shell
 git clone --recursive https://github.com/astropenguin/python3-priism.git
 cd python3-priism
+poetry env use 3.8
 poetry install
 poetry run ./install-priism.sh
 ```

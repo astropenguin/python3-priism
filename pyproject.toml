@@ -6,7 +6,7 @@ authors = ["Akio Taniguchi <taniguchi@a.phys.nagoya-u.ac.jp>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "~3.6"
+python = "~3.8"
 casadata = "^2021.10.11"
 casatools = "^6.4"
 casatasks = "^6.4"
