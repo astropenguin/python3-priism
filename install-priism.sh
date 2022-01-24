@@ -2,7 +2,7 @@
 
 # build and install priism
 cd ./priism
-python setup.py build "$1"
+python setup.py build $* 
 python setup.py install
 
 # remove temporary files
