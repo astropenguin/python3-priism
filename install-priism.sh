@@ -2,7 +2,7 @@
 
 # build and install priism
 cd ./priism
-python setup.py build -X yes -I /usr/local/python/3.6/include/python3.6m
+python setup.py build "$1"
 python setup.py install
 
 # remove temporary files
